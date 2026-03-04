@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "name": "Alex",
+            "email": "alex@mail.com"
+        },
+        {
+            "name": "Alex",
+            "email": "alex@mail.com"
+        },
+        {
+            "name": "brenden",
+            "email": "alex@mail.com"
+        },
+        {
+            "name": "murimi",
+            "email": "murimi@mail.com"
+        },
+        {
+            "name": "brenden",
+            "email": "brenden@mail.com"
+        }
+    ],
+    "projects": [
+        {
+            "title": "CLI Tool",
+            "description": "",
+            "due_date": "none",
+            "user": "brenden"
+        }
+    ],
+    "tasks": [
+        {
+            "title": "Build CLI",
+            "project": "CLI Tool",
+            "assigned_to": "brenden",
+            "status": "completed"
+        }
+    ]
+}
